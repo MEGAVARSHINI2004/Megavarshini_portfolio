@@ -1,0 +1,10 @@
+# Ignore images folder
+images/
+
+# Optional: Ignore other sensitive files
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore system files
+desktop.ini
